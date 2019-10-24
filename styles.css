@@ -1,0 +1,30 @@
+html, body {
+    height: 50%;
+}
+
+body {
+    text-align: center;
+    background: url("https://i.imgur.com/HHCupZc.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #cdf1f3;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+  font-size: 28px;
+}
+img {
+    padding-top: 50px;
+    width: 20%;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 22px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input[type="submit"] {
+  background: red;
+  color: white;
+}
